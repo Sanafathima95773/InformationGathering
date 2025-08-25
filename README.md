@@ -88,7 +88,6 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 <img width="1903" height="896" alt="image" src="https://github.com/user-attachments/assets/86a8a584-5af1-4c57-9126-9ae96fec7b04" />
 
 
-### netcat :
 
 ### nmap :
 <img width="955" height="323" alt="image" src="https://github.com/user-attachments/assets/1e4e53f0-40eb-4215-ab73-b27f393968d3" />
